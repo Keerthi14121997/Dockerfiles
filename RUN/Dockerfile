@@ -1,2 +1,2 @@
-FROM almalinux
+FROM almalinux.latest
 RUN yum install nginx
